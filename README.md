@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rabiieouallaf" alt="rabiieouallaf" /></a> </p>
 
-- 🔭 I’m currently working on [MacroMaven-PFE](https://github.com/RabiieOuallaf/MacroMaven-PFE)
+- 🔭 my portfolio [Rabie uallaf](https://rabie-ouallaf-portfolio.vercel.app/)
 
 - 🌱 I’m currently learning **Laravel | docker | kubernetes**
 
